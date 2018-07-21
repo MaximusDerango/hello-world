@@ -1,2 +1,2 @@
 # hello-world
-Tutorial repository
+This is of use to someone somewhere... perhaps.
